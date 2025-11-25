@@ -1,2 +1,2 @@
 # input-lag-remover
-this input lag was made by my russian friend.
+this input lag remover was made by my russian friend.
